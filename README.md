@@ -17,7 +17,7 @@ This app requires both node.js and MondoDB
  Run ### `npm i` to install any necessary packages  
  Finally, run the server with command ### `node ..`
 
-# Build With
+# Technologies Used
 
 - Mongoose
 - MongoDB
