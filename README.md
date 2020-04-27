@@ -8,7 +8,7 @@ Allows and individual to track his spending and see where and what they are spen
 
 [Try it yourself!](https://budget-tracker-g.herokuapp.com/)
 
-<img src="public/images/budget.PNG" alt="NBA Game">
+<img src="public/images/budget.PNG" alt="Budget">
 
 # Local Installation and Use:
 
